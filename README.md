@@ -8,10 +8,15 @@ it will perform good.
 So here have took the dataset of the AdultKNN , mobileprice dataset Along with that in mobileprice dataset we have also perform
 the grid search to get better parameter in decision tree and random forest.
 
-# 1.Adultknn ---
+# 1.Adultknn dataset ---
 
-Just performing the naive bayes
+Just performing the naive bayes\
 
-# 2.mobiles ---
+just refer KNN repo for more.
+
+
+# 2.mobileprice dataset ---
 
 here along buidling nave bayes algorithm we have perform the grid search to find the better parameter for decision tree and random forest
+
+just refer KNN repo for more.
